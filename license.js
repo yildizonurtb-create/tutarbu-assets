@@ -7,8 +7,8 @@
     s.textContent=[
 
       /* ── BANNER ── */
-      '#_lb{width:100%;background:#0f1520;border-top:1px solid #1e2a3a;padding:16px 24px;display:flex;align-items:center;justify-content:space-between;gap:16px;cursor:pointer;font-family:Arial,sans-serif;box-sizing:border-box;transition:background .2s}',
-      '#_lb:hover{background:#141c2e}',
+      '#_lb{width:100%;background:#080808;border-top:1px solid #1e2a3a;padding:16px 24px;display:flex;align-items:center;justify-content:space-between;gap:16px;cursor:pointer;font-family:Arial,sans-serif;box-sizing:border-box;transition:background .2s}',
+      '#_lb:hover{background:#111111}',
 
       '._lbl{display:flex;align-items:center;gap:14px;flex:1;min-width:0}',
 
